@@ -107,4 +107,8 @@ header {
   background-color: #212121;
   color: #fff;
 }
+main {
+  width: 100%;
+  max-width: 768px;
+}
 </style>
